@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KikiNewman
+- 👋 Hi, I’m @Norley
 - 👀 I’m interested in Art, Fashion and Coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Robotics
+- 💞️ I’m looking to collaborate on a game project
 - 📫 How to reach me ewuradjoanorley@gmail.com
 
 <!---
